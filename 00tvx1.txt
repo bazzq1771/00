@@ -16,7 +16,7 @@
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️🚫🔞 0423 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date","name":"️🔞 0112 🔞","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili05155.json", "jar":"https://github.com/c120487/00/raw/main/jar/pc0330.jar"},
 {"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
 
@@ -94,42 +94,6 @@
 {"name":"sexnguon色南国资源","key":"11色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"shayuapi鲨鱼资源","key":"11鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 //
-//
-//
-{"key":"s00XYQH","name":"🧪🧪XYQH🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
-{"key":"csp_XYQHiker_300分类","name":"300分类","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/300分类.json"},
-
-{"key":"18AV1","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XYQHiker_18AV","name":"18AV2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/TVBOXZY/main/XYQH/18AV.json"},
-{"key":"18avv","name":"️18AV3(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/18mm.json"},
-
-{"key":"yaya","name":"️雅雅(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yaya.json"},
-{"key":"yaya1","name":"️雅雅1(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yaya1.json"},
-{"key":"yaya2","name":"️雅雅2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yaya2.json"},
-
-
-{"key":"s嗷嗷","name":"️nowav(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/881.json"},
-{"key":"s嗷嗷1","name":"️nowav1(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/now1.json"},
-{"key":"s嗷嗷2","name":"️nowav2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/now2.json"},
-
-{"key":"csp_XYQHiker_300分类1","name":"300分类1","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类1.json"},
-{"key":"csp_XYQHiker_300分类2","name":"300分类2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类2.json"},
-{"key":"csp_XYQHiker_300分类3","name":"300分类3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类3.json"},
-{"key":"csp_XYQHiker_300分类4","name":"300分类4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类4.json"},
-{"key":"csp_XYQHiker_300分类5","name":"300分类5","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类5.json"},
-{"key":"csp_XYQHiker_300分类6","name":"300分类6","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/300分类6.json"},
-
-
-{"key":"lover","name":"️爱人影院(XYQH)","type":3,"api":"csp6_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/lover.json"},
-
-//expired
-{"key":"sgp","name":"水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/sgp.json"},
-{"key":"大众","name":"水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a4%a7%e4%bc%97.json"},
-{"key":"zhyz","name":"ayay3(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"},
-{"key":"csp_XYQHiker_水果派","name":"ayay32(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/水果派.json"},
-    {"key":"csp_XYQHiker_猫咪","name":"猫咪(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/猫咪XYQH.json"},
-    {"key":"csp_XBiu_猫咪","name":"🍁猫咪(XBB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/猫咪XBB.json"},
-
 //
 //
 {"key":"s00XBiubiu","name":"🧪🧪XBiubiu🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
